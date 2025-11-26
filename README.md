@@ -14,7 +14,7 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="assets/abhinandan.jpg" width="220" style="border-radius: 18px; box-shadow: 0 0 18px rgba(0,0,0,0.25);" />
+  <img src="abhinandan.jpg" width="220" style="border-radius: 18px; box-shadow: 0 0 18px rgba(0,0,0,0.25);" />
 </p>
 
 <!-- BADGES -->
