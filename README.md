@@ -3,6 +3,9 @@
 
 <!--
 **Abhi005-live/Abhi005-live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/github_preview.gif" width="320">
+</p>
 
 Here are some ideas to get you started:
 
