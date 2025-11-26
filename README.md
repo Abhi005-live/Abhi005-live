@@ -1,124 +1,132 @@
-<!-- Banner / GIF -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="assets/github_preview.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/abhinandan/abhinandan/main/assets/github_preview.gif" width="450" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhinandan Maharana</h1>
-<h3 align="center">CSE (AI & ML) Student | Developer | Tech Enthusiast</h3>
+<!-- NAME AND TITLE -->
+<h1 align="center">🌟 Abhinandan Maharana 🌟</h1>
+<h3 align="center">CSE (AI & ML) Student | Developer | Innovator | Tech Enthusiast</h3>
 
+<!-- ANIMATED LINE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinandan&label=Profile%20Views&color=blue&style=flat" alt="views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 **CSE (AI & ML) Student**
-- 🤖 Interested in **ML, CV, Automation, and Full-Stack Web Development**
-- 🔥 Building creative real-world projects that solve problems  
-- 🎨 Currently developing a **Rubik’s-Cube-Style 3D Portfolio**
-- 📫 Contact me at **maharanaabhi220205@gmail.com**
-
----
-
-# 🛠️ Skills & Technologies
-
-### **👨‍💻 Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,javascript" />
-</p>
-
-### **🌐 Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,bootstrap" />
-</p>
-
-### **🗄 Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### **🤖 AI / ML & Data Science**
-- Machine Learning  
-- Computer Vision  
-- Data Preprocessing  
-- Model Training & Evaluation  
-- NumPy, Pandas, OpenCV, Matplotlib  
-
-### **⚙️ Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
-</p>
-
----
-
-# ⭐ Featured Projects
-
-### 🔹 **1. Blog System (User + Admin Dashboards)**
-**Tech:** PHP, MySQL, Auth, CRUD  
-A full blogging platform where users add posts & admins manage everything.
-
-### 🔹 **2. Real-Time Chat App (AJAX + PHP)**  
-**Features:** online status, typing indicator, smart UI  
-Built using AJAX auto-refresh, PHP backend, MySQL DB.
-
-### 🔹 **3. Hand Gesture Recognition System**  
-Python + OpenCV real-time gesture recognition with custom models.
-
-### 🔹 **4. BlockBuddy Chatbot (Society Management App)**  
-Chatbot to automate complaint tracking, bill payments, notices & visitor logs.
-
-### 🔹 **5. Rubik’s Cube 3D Portfolio (In Progress)**  
-Animated cube → each side represents skills, projects, and contact details.
-
----
-
-# 🏆 GitHub Trophies
+<!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinandan&theme=dracula&margin-w=10" />
+  <img src="assets/abhinandan.jpg" width="220" style="border-radius: 18px; box-shadow: 0 0 18px rgba(0,0,0,0.25);" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhinandan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan&theme=tokyonight" />
-</p>
+# 🚀 About Me
+
+✨ I’m a **CSE (AI & ML)** student passionate about building intelligent systems and creative digital experiences.  
+💡 I focus on **Machine Learning, Computer Vision, Web Apps, and UI Creativity**.  
+🎯 My goal is to blend **tech + creativity** to build innovative solutions.
+
+---
+
+# 🎨 Creative Skill Icons
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandan&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,opencv,tensorflow,git,github,linux" />
 </p>
 
 ---
 
-# 🔥 3D Contribution Snake
+# 🧠 AI / ML Skills  
+🔥 Machine Learning Algorithms  
+🔥 CNN Models & Computer Vision  
+🔥 OpenCV Gesture Recognition  
+🔥 Data Processing (NumPy, Pandas)  
+🔥 Model Training & Optimization  
+
+---
+
+# 🛠 Tools I Use
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LordDashMe/github-contribution-grid-snake/master/src/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bootstrap" />
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌟 Featured Creative Projects
 
-<p align="left">
-  <a href="www.linkedin.com/in/abhinandan-maharana-a9849a31b">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="https://www.instagram.com/butwhyabhi_____?igsh=eWRwY2czNnhhMTht">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
-  <a href="mailto:maharanaabhi220205@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-</p>
+### ✨ **1. Smart Blog System (Admin + User Dashboard)**
+✔ CRUD | ✔ PHP | ✔ Authentication | ✔ MySQL
+
+### ✨ **2. Real-Time Chat System**
+✔ AJAX Live Refresh | ✔ Typing Indicator | ✔ Online Status
+
+### ✨ **3. Hand Gesture Recognition**
+✔ OpenCV | ✔ ML Models | ✔ Real-Time Camera Interface
+
+### ✨ **4. BlockBuddy – Society Management Chatbot**
+✔ Bill Automation | ✔ Notices | ✔ Complaints | ✔ Visitor Logs
+
+### ✨ **5. Rubik’s Cube Portfolio (Ongoing)**
+✔ Creative UI | ✔ 3D Effects | ✔ Animation Driven
 
 ---
 
-# 📝 Motto
+# 📊 GitHub Analytics
+
 <p align="center">
-<b>“Build. Break. Learn. Improve.”</b>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhinandan&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan&theme=radical" />
 </p>
 
-  
+---
+
+# 🌐 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandan&theme=high-contrast" />
+</p>
+
+---
+
+# 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinandan&theme=onestar&margin-w=10" />
+</p>
+
+---
+
+# 🐍 Contribution Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LordDashMe/github-contribution-grid-snake/master/src/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🌈 Fun Quote  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=650&lines=Build.+Break.+Learn.+Improve.;Code+is+Art.;AI+is+the+Future.;Consistency+is+the+Key+to+Growth.">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/abhinandan-maharana-a9849a31b"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://www.instagram.com/butwhyabhi_____?igsh=eWRwY2czNnhhMTht"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
+  <a href="mailto:maharanaabhi220205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+</p>
+
+---
+
+<p align="center">
+  <b>🔥 “Stay Hungry. Stay Foolish.” 🔥</b>
+</p>
+
