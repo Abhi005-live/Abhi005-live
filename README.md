@@ -1,160 +1,84 @@
-<!-- TOP BANNER -->
+<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinandan/abhinandan/main/assets/github_preview.gif" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abhinandan%20Maharana&fontSize=45&fontColor=00F7FF&animation=fadeIn&desc=AI%20%7C%20Full%20Stack%20%7C%20Creative%20Dev&descAlignY=70"/>
 </p>
 
-<!-- NAME AND TITLE -->
-<h1 align="center">🌟 Abhinandan Maharana 🌟</h1>
-<h3 align="center">CSE (AI & ML) Student | Developer | Innovator | Tech Enthusiast</h3>
-
-<!-- ANIMATED LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-</p>
-
-<!-- PROFILE PHOTO -->
-<p align="center">
-  <img src="abhinandan.jpg" width="220" style="border-radius: 18px; box-shadow: 0 0 18px rgba(0,0,0,0.25);" />
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-yellow?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Creative+Technologist;Building+Future+Tech+🚀" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-✨ I’m a **CSE (AI & ML)** student passionate about building intelligent systems and creative digital experiences.  
-💡 I focus on **Machine Learning, Computer Vision, Web Apps, and UI Creativity**.  
-🎯 My goal is to blend **tech + creativity** to build innovative solutions.
-
----
-
-# 🎨 Creative Skill Icons
-
+<!-- 🌐 PORTFOLIO CTA -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,javascript,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,opencv,tensorflow,git,github,linux" />
+  <a href="https://portfolioabhinandan.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-Click%20Here-00F7FF?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-# 🧠 AI / ML Skills  
-🔥 Machine Learning Algorithms  
-🔥 CNN Models & Computer Vision  
-🔥 OpenCV Gesture Recognition  
-🔥 Data Processing (NumPy, Pandas)  
-🔥 Model Training & Optimization  
-
----
-
-# 🛠 Tools I Use
-
+<!-- 🎥 PREVIEW -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bootstrap" />
-</p>
-# 🛠 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bootstrap" />
-</p>
-
-## 🤖 AI Tools & Productivity
-
-<p align="center">
-  <!-- Core AI -->
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
-
-  <!-- Coding AI -->
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge" />
-
-  <!-- Productivity -->
-  <img src="https://img.shields.io/badge/Notion%20AI-Workspace-black?style=for-the-badge&logo=notion" />
-
-  <!-- Design / Content -->
-  <img src="https://img.shields.io/badge/Canva%20AI-Design-blue?style=for-the-badge&logo=canva" />
-
-  <!-- Presentation -->
-  <img src="https://img.shields.io/badge/Presenti-AI%20Presentations-green?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/abhinandan/abhinandan/main/assets/github_preview.gif" width="600" />
 </p>
 
 ---
 
-> 🚀 Using AI tools to boost coding efficiency, streamline workflows, and build smarter solutions.
-# 🌟 Featured Creative Projects
+## 🧠 About Me
 
-### ✨ **1. Smart Blog System (Admin + User Dashboard)**
-✔ CRUD | ✔ PHP | ✔ Authentication | ✔ MySQL
+```diff
++ 🚀 CSE (AI & ML) Student
++ 🤖 Building AI-powered systems & full-stack apps
++ 🎨 Focused on creative UI + interactive experiences
++ 🧊 Creator of Rubik’s Cube Portfolio
++ 🎯 Goal: Build scalable & impactful tech
+🧊 My Design Philosophy
 
-### ✨ **2. Real-Time Chat System**
-✔ AJAX Live Refresh | ✔ Typing Indicator | ✔ Online Status
+Inspired by a Rubik’s Cube 🧩 — every side represents a dimension of me:
 
-### ✨ **3. Hand Gesture Recognition**
-✔ OpenCV | ✔ ML Models | ✔ Real-Time Camera Interface
+🟥 Logic → Data Structures & Problem Solving
+🟦 Creativity → UI/UX & Visual Design
+🟩 Development → Full Stack Applications
+🟨 AI → Machine Learning Systems
+🟪 Innovation → Unique Ideas
+⬜ Growth → Continuous Learning
 
-### ✨ **4. BlockBuddy – Society Management Chatbot**
-✔ Bill Automation | ✔ Notices | ✔ Complaints | ✔ Visitor Logs
+✨ I don’t just build projects — I design experiences.
 
-### ✨ **5. Rubik’s Cube Portfolio (Ongoing)**
-✔ Creative UI | ✔ 3D Effects | ✔ Animation Driven
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhinandan&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandan&theme=radical" />
-</p>
-
----
-
-# 🌐 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandan&theme=high-contrast" />
-</p>
-
----
-
-# 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinandan&theme=onestar&margin-w=10" />
-</p>
-
----
-
-# 🐍 Contribution Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LordDashMe/github-contribution-grid-snake/master/src/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# 🌈 Fun Quote  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=650&lines=Build.+Break.+Learn.+Improve.;Code+is+Art.;AI+is+the+Future.;Consistency+is+the+Key+to+Growth.">
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/abhinandan-maharana-a9849a31b"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://www.instagram.com/butwhyabhi_____?igsh=eWRwY2czNnhhMTht"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-  <a href="mailto:maharanaabhi220205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-</p>
-
----
-
-<p align="center">
-  <b>🔥 “Stay Hungry. Stay Foolish.” 🔥</b>
-</p>
-
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,php,javascript,html,css,react,nodejs,mysql,opencv,tensorflow,git,github,linux" /> </p>
+🤖 AI / ML Expertise
+<p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/CNN-Deep%20Learning-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data-Numpy%20%26%20Pandas-orange?style=for-the-badge" /> </p>
+🛠 Tools & AI Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bootstrap" /> </p> <p align="center"> <img src="https://img.shields.io/badge/ChatGPT-AI-10a37f?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude-AI-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub%20Copilot-AI-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cursor-AI-black?style=for-the-badge" /> </p>
+🚀 Projects
+🧠 AI + ML
+🖐 Hand Gesture Recognition → OpenCV, Real-Time Tracking
+🤖 BlockBuddy AI → Smart Society Assistant
+💻 Full Stack
+💬 Real-Time Chat App → AJAX, Live Messaging
+📝 Smart Blog System → Admin + User Dashboard
+🎨 Creative
+🧊 Rubik’s Cube Portfolio → Interactive 3D UI
+🔗 https://portfolioabhinandan.vercel.app
+📊 GitHub Analytics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi005-live&show_icons=true&theme=react-dark" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi005-live&theme=react-dark" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi005-live&theme=react-dark" /> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhi005-live&theme=onedark&no-frame=true&row=1&column=6" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/LordDashMe/github-contribution-grid-snake/master/src/github-contribution-grid-snake.svg" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/abhinandan-maharana-a9849a31b"> <img src="https://skillicons.dev/icons?i=linkedin" width="50"/> </a> <a href="https://www.instagram.com/butwhyabhi_____"> <img src="https://skillicons.dev/icons?i=instagram" width="50"/> </a> <a href="mailto:maharanaabhi220205@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50"/> </a> </p>
+🚀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhi005-live&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
+⚡ Developer Mindset
+I don’t just code.
+I design systems.
+I build experiences.
+I solve real problems.
+🧠 Final Touch
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&width=650&lines=Build.+Break.+Learn.+Repeat.;AI+Driven+Developer.;Creating+Future+Tech." /> </p>
+<p align="center"> <b>🔥 Stay Hungry. Stay Foolish. 🔥</b> </p> ```
