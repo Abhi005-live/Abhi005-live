@@ -58,8 +58,45 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bootstrap" />
 </p>
 
+## 🤖 AI Tools & Productivity
+
+<p align="center">
+  <!-- Core AI -->
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Perplexity-AI-purple?style=for-the-badge" />
+
+  <!-- Coding AI -->
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeium-Free%20AI-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tabnine-AI%20Assistant-orange?style=for-the-badge" />
+
+  <!-- Automation / Productivity -->
+  <img src="https://img.shields.io/badge/MaxAI-Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notion%20AI-Workspace-black?style=for-the-badge&logo=notion" />
+  <img src="https://img.shields.io/badge/Zapier-Automation-orange?style=for-the-badge&logo=zapier" />
+
+  <!-- Design / Content AI -->
+  <img src="https://img.shields.io/badge/Midjourney-AI%20Art-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DALL·E-Image%20Gen-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Runway-Video%20AI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva%20AI-Design-blue?style=for-the-badge&logo=canva" />
+
+  <!-- Presentation / Docs -->
+  <img src="https://img.shields.io/badge/Presenti-AI%20Presentations-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tome-AI%20Storytelling-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gamma-AI%20Slides-purple?style=for-the-badge" />
+
+  <!-- Experimental / Advanced -->
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Tools-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-AI%20Framework-green?style=for-the-badge" />
+</p>
+
 ---
 
+> 🚀 Leveraging AI tools to accelerate development, automate workflows, and build intelligent, scalable solutions.
 # 🌟 Featured Creative Projects
 
 ### ✨ **1. Smart Blog System (Admin + User Dashboard)**
